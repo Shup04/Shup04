@@ -11,13 +11,6 @@ I'm a 3rd year bachelor of software engineering student in Canada.<br>I'm curren
 ![](https://github-readme-stats.vercel.app/api?username=shup04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shup04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shup04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shup04&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=shup04&icon=2&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=9MPSH8ZHPBH3G) 
 
