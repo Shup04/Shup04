@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd year bachelor of software engineering student in Canada.<br>I'm currently working on AquaFlora, the aquarium management mobile app powered by A.I.
+I'm a Canadian 3rd year bachelor of software engineering student.<br>I'm currently working on AquaFlora, the aquarium management mobile app powered by A.I.
 
 
 ## 🌐 Socials:
